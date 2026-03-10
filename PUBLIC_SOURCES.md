@@ -2,6 +2,12 @@
 
 Canonical public entry points for the curated memory files in this repo.
 
+## Repo Role
+
+- `joe-os` is the public curated repo for AI and human orientation.
+- `joe-archive-private` is the separate private full-archive backup repo.
+- If a source is private, raw, export-only, or internal, it belongs in the private archive repo and should not be added here.
+
 ## Personal Site
 
 - Main site: [https://hubeiqiao.com](https://hubeiqiao.com)
