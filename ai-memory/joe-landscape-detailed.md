@@ -2,7 +2,7 @@
 
 Last updated: 2026-03-10
 
-See also: [Joe-memory-card.md](./Joe-memory-card.md) | [Joe-overall-landscape.md](./Joe-overall-landscape.md)
+See also: [joe-memory-card.md](./joe-memory-card.md) | [joe-overall-landscape.md](./joe-overall-landscape.md)
 
 Purpose: a detailed, source-aware landscape for future AI systems. This is a synthesis, not an archive dump. It is weighted toward 2020-2026 because that is where Joe's current identity is clearest and the documentation is richest.
 

@@ -21,6 +21,8 @@ Canonical public entry points for the curated memory files in this repo.
 
 - Main site: [https://joespeaking.com](https://joespeaking.com)
 - Story / about: [https://joespeaking.com/about](https://joespeaking.com/about)
+- Product about snapshot: [sources/product/joe-speaking-about-en.md](./sources/product/joe-speaking-about-en.md)
+- Product landing snapshot: [sources/product/joe-speaking-landing-en.md](./sources/product/joe-speaking-landing-en.md)
 - Support contact: `support@joespeaking.com`
 
 ## Selected Public Blog Posts
@@ -60,9 +62,11 @@ Canonical public entry points for the curated memory files in this repo.
 
 ## Included Snapshots
 
-- Personal site about: [sources/personal-site/about.md](./sources/personal-site/about.md)
-- Personal site home: [sources/personal-site/home.md](./sources/personal-site/home.md)
-- Personal site 2025 review: [sources/personal-site/2025-year-in-review.md](./sources/personal-site/2025-year-in-review.md)
+- Personal site about: [sources/personal-website/about.md](./sources/personal-website/about.md)
+- Personal site home: [sources/personal-website/home.md](./sources/personal-website/home.md)
+- Personal site 2025 review: [sources/personal-website/2025-year-in-review.md](./sources/personal-website/2025-year-in-review.md)
 - Company founder page extract: [sources/company/founder.md](./sources/company/founder.md)
 - Company philosophy extract: [sources/company/philosophy.md](./sources/company/philosophy.md)
 - Company Joe Speaking product extract: [sources/company/product-joe-speaking.md](./sources/company/product-joe-speaking.md)
+- Joe Speaking about snapshot: [sources/product/joe-speaking-about-en.md](./sources/product/joe-speaking-about-en.md)
+- Joe Speaking landing snapshot: [sources/product/joe-speaking-landing-en.md](./sources/product/joe-speaking-landing-en.md)

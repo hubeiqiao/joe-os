@@ -2,7 +2,7 @@
 
 Last updated: 2026-03-10
 
-See also: [Joe-overall-landscape.md](./Joe-overall-landscape.md) | [Joe-landscape-detailed.md](./Joe-landscape-detailed.md)
+See also: [joe-overall-landscape.md](./joe-overall-landscape.md) | [joe-landscape-detailed.md](./joe-landscape-detailed.md)
 
 Purpose: a short, reusable AI memory layer for Joe Hu. Use this when you need fast orientation, not a full dossier.
 

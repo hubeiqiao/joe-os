@@ -361,16 +361,18 @@ Use dated or approximate phrasing where needed.
 If a future AI needs more detail, start here:
 
 - This repo's curated memory files:
-  - `Joe-memory-card.md`
-  - `Joe-overall-landscape.md`
-  - `Joe-landscape-detailed.md`
+  - `ai-memory/joe-memory-card.md`
+  - `ai-memory/joe-overall-landscape.md`
+  - `ai-memory/joe-landscape-detailed.md`
 - This repo's public-source snapshots:
-  - `sources/personal-site/about.md`
-  - `sources/personal-site/home.md`
-  - `sources/personal-site/2025-year-in-review.md`
+  - `sources/personal-website/about.md`
+  - `sources/personal-website/home.md`
+  - `sources/personal-website/2025-year-in-review.md`
   - `sources/company/founder.md`
   - `sources/company/philosophy.md`
   - `sources/company/product-joe-speaking.md`
+  - `sources/product/joe-speaking-about-en.md`
+  - `sources/product/joe-speaking-landing-en.md`
 - Canonical public sites:
   - `https://hubeiqiao.com`
   - `https://joespeaking.com`

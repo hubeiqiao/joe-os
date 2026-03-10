@@ -1,21 +1,19 @@
-# joe-memory
+# joe-os
 
-Public curated memory repo for Joe Hu.
+Public curated operating context for Joe Hu.
 
 This repository is intentionally small. It is designed to help humans and AI systems understand Joe's public story, public projects, and public writing without exposing the full private archive behind it.
 
 ## What This Repo Includes
 
-- `Joe-memory-card.md`
-  - shortest reusable memory layer
-- `Joe-overall-landscape.md`
-  - medium summary
-- `Joe-landscape-detailed.md`
-  - longer public dossier
+- `ai-memory/`
+  - reusable Joe memory and landscape docs
 - `PUBLIC_SOURCES.md`
   - canonical public links grouped by surface
 - `sources/`
-  - a very small set of sanitized snapshots from already-public pages
+  - sanitized snapshots from already-public company, product, and personal-website pages
+- `AGENTS.md`
+  - rules for future AIs maintaining this public repo
 
 ## Source Policy
 
@@ -29,7 +27,7 @@ This repository is intentionally small. It is designed to help humans and AI sys
 - raw X or LinkedIn exports
 - likes, comments, ad/impression, or engagement archives
 - internal applications or planning notes
-- local-only corpus evidence
+- anything from the private `Social Media/` archive
 - raw export directories
 
 ## Canonical Public Entry Points
