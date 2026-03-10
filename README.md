@@ -2,6 +2,8 @@
 
 Public curated operating context for Joe Hu.
 
+This repository is the public-facing subset of the larger private archive. The full archive backup lives separately in the private repo `hubeiqiao/joe-archive-private`.
+
 This repository is intentionally small. It is designed to help humans and AI systems understand Joe's public story, public projects, and public writing without exposing the full private archive behind it.
 
 ## What This Repo Includes
@@ -45,5 +47,6 @@ This repository is intentionally small. It is designed to help humans and AI sys
 ## Notes
 
 - This is a public repo, not the backup location for the full private archive.
+- The private counterpart is `hubeiqiao/joe-archive-private`, which stores the complete source archive and private working material.
 - Metrics in the memory docs are intentionally conservative and date-scoped where needed.
 - When public copy and older snapshots differ, prefer the most current dated public statement or the explicit cautions in the memory docs.

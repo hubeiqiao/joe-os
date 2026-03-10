@@ -1,6 +1,6 @@
 # AGENTS.md
 
-This repository is the public curated package for Joe Hu. It is for AI and human orientation, not for backing up the full private archive.
+This repository is the public curated package for Joe Hu. It is for AI and human orientation, not for backing up the full private archive. The full archive backup lives separately in the private repo `hubeiqiao/joe-archive-private`.
 
 ## Allowed Content
 
@@ -25,3 +25,4 @@ This repository is the public curated package for Joe Hu. It is for AI and human
 - Do not add local-only evidence or internal-only claims to this repo.
 - Treat this repo as a curated subset, not a mirror of `/Users/joehu/Joe`.
 - If a file references a local path, secret-like token, or raw export artifact, sanitize it before commit.
+- If a change is meant to preserve the full archive or includes private source material, it belongs in `joe-archive-private`, not here.
