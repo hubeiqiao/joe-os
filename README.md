@@ -48,5 +48,6 @@ This repository is intentionally small. It is designed to help humans and AI sys
 
 - This is a public repo, not the backup location for the full private archive.
 - The private counterpart is `hubeiqiao/joe-archive-private`, which stores the complete source archive and private working material.
+- For the repo-boundary and public curation rule, see [ai-memory/repo-boundary-and-publish-policy.md](ai-memory/repo-boundary-and-publish-policy.md).
 - Metrics in the memory docs are intentionally conservative and date-scoped where needed.
 - When public copy and older snapshots differ, prefer the most current dated public statement or the explicit cautions in the memory docs.
