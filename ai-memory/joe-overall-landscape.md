@@ -9,7 +9,7 @@ Purpose: give future AI systems a compact but high-signal operating picture of J
 - Joe Hu is an Ottawa-based builder with several overlapping identities: reflective writer, immigrant/English learner, product strategist, traveler, community participant, founder, and AI-native builder.
 - He moved from Beijing to Ottawa in August 2024 and studied Technology Innovation Management at Carleton University from September 2024 to March 2026.
 - His current flagship company/product pair is Just Joe Technologies Inc. + Joe Speaking.
-- Joe Speaking is an AI English-speaking practice product that grew out of Joe's own long-running struggle with spoken English and his earlier IELTS Speaking Simulator GPT.
+- Joe Speaking is an IELTS speaking simulator and English-speaking practice product that grew out of Joe's own long-running struggle with spoken English and his earlier IELTS Speaking Simulator GPT.
 - Joe Speaking is the current flagship, not the only intended product. Public copy already frames Joe as having shipped multiple products, with Joe Speaking as the flagship and current commercial center.
 - Joe's public identity combines several threads: explorer, builder, founder, immigrant, product strategist, AI power-user, and reflective writer.
 - His strongest recurring worldview is that AI expands human agency. He sees this period as a "pathless path" where one person can now build what used to require teams.
@@ -140,7 +140,7 @@ This is one of the most important threads in Joe's story.
 
 ### 1. Joe Speaking
 
-- Core description: AI-powered English speaking practice product.
+- Core description: IELTS speaking simulator and English-speaking practice product.
 - Status in the larger portfolio: first flagship / first major commercial product, not the final product universe.
 - Main use cases: IELTS, CELPIP, daily speaking practice, replay, feedback, flash cards, review, repetition, comparison.
 - Core emotional truth: it was built for Joe first, then shared outward.

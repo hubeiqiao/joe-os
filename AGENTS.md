@@ -5,6 +5,7 @@ This repository is the public curated package for Joe Hu. It is for AI and human
 ## Allowed Content
 
 - `ai-memory/`: public-safe summaries, memory cards, and landscape docs
+- `wiki/`: public-safe entity pages, topic pages, timelines, indexes, and logs
 - `sources/company/`: sanitized snapshots that map to public company pages
 - `sources/product/`: sanitized snapshots that map to public product pages
 - `sources/personal-website/`: sanitized snapshots that map to public personal-site pages
@@ -24,5 +25,8 @@ This repository is the public curated package for Joe Hu. It is for AI and human
 - Keep metrics date-scoped and conservative when sources disagree.
 - Do not add local-only evidence or internal-only claims to this repo.
 - Treat this repo as a curated subset, not a mirror of `/Users/joehu/Joe`.
+- Treat `sources/` as the public raw-source layer and `wiki/` as the public synthesis layer.
+- Update `wiki/index.md` when the public wiki catalog changes.
+- Append a dated entry to `wiki/log.md` when the public wiki is materially updated.
 - If a file references a local path, secret-like token, or raw export artifact, sanitize it before commit.
 - If a change is meant to preserve the full archive or includes private source material, it belongs in `joe-archive-private`, not here.

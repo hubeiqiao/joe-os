@@ -10,6 +10,8 @@ This repository is intentionally small. It is designed to help humans and AI sys
 
 - `ai-memory/`
   - reusable Joe memory and landscape docs
+- `wiki/`
+  - public-safe LLM-maintained synthesis pages for durable orientation
 - `PUBLIC_SOURCES.md`
   - canonical public links grouped by surface
 - `sources/`
@@ -20,6 +22,7 @@ This repository is intentionally small. It is designed to help humans and AI sys
 ## Source Policy
 
 - This repo includes only curated public-facing material.
+- Treat `sources/` as the public raw-source layer and `wiki/` as the public synthesis layer.
 - Canonical public URLs are preferred over raw exported copies.
 - Raw social exports, archive reconstructions, internal notes, platform dumps, and private application materials are intentionally excluded.
 - If a source contained gated query strings or archive-only metadata, it was not included here as a raw file.
